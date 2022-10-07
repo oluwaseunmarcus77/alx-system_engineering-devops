@@ -1,2 +1,2 @@
-!#/bin/bash
+#!/bin/bash
 mkdir /tap/my_first_directory/
